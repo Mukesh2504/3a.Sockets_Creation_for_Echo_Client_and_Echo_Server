@@ -33,10 +33,9 @@ while True:
     c.send(ClientMessage.encode())
 ```
 ## OUPUT
-CLIENT:
+
 ![Screenshot 2024-10-07 140054](https://github.com/user-attachments/assets/c8c52b7d-8d53-42d6-ad41-dba6676e4633)
 
-SERVER:
 ![Screenshot 2024-10-07 140108](https://github.com/user-attachments/assets/7b18d5e2-2ba4-4c03-adb2-3273a40629c7)
 
 ## RESULT
